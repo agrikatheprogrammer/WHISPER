@@ -5,5 +5,5 @@
 
 
 ## Summarize Transcribed Content:
-![Summarize](assets/summarize.gif)
+![Summarize](https://github.com/agrikatheprogrammer/WHISPER/blob/main/summarize.gif)
 
