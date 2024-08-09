@@ -1,7 +1,7 @@
 # WHISPER
 
 ## Transcribe Audio:
-<img src="transcribe_video.gif" alt="Transcribe Video GIF">
+![Transcribe](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 ## Summarize Transcribed Content:
