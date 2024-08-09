@@ -1,7 +1,7 @@
 # WHISPER
 
 ## Transcribe Audio:
-![Transcribe](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Transcribe](https://github.com/agrikatheprogrammer/WHISPER/blob/main/transcribe_video.gif)
 
 
 ## Summarize Transcribed Content:
